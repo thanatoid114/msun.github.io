@@ -50,7 +50,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-#  - name: Technical
+  - name: Technical
     items:
       - name: Python
         description: ''
