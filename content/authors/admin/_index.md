@@ -49,19 +49,19 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
+skills:
 #  - name: Technical
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 40
-#        icon: python
-#        icon_pack: fab
-#      - name: Matlab
-#        description: ''
-#        percent: 60
-#        icon: matlab/devicon
-#        icon_pack: fas
+    items:
+      - name: Python
+        description: ''
+        percent: 40
+        icon: python
+        icon_pack: fab
+      - name: Matlab
+        description: ''
+        percent: 60
+        icon: matlab
+        icon_pack: devicon 
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
