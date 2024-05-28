@@ -29,6 +29,7 @@ bio: My research interests include exciton-polariton condensate and hybrid syste
 
 # Interests to show in About widget
 interests:
+  - Fractal and quasiperoid systems
   - Exciton-polarition condensate
   - Gross-Pitaevskii equation
   - Hybrid system
@@ -48,28 +49,28 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 40
-        icon: python
-        icon_pack: fab
-      - name: Matlab
-        description: ''
-        percent: 60
-        icon: matlab/devicon
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 40
-        icon: person-hiking
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 40
+#        icon: python
+#        icon_pack: fab
+#      - name: Matlab
+#        description: ''
+#        percent: 60
+#        icon: matlab/devicon
+#        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 40
+#        icon: person-hiking
+#        icon_pack: fas
 #      - name: Cycling
 #        description: ''
 #        percent: 40
@@ -81,11 +82,14 @@ skills:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai 
     link: https://scholar.google.com/citations?user=bYYHQMQAAAAJ&hl
   - icon: github
     icon_pack: fab
     link: https://github.com/thanatoid114
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-8697-2745 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
